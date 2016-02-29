@@ -1,6 +1,5 @@
-package src.test.java;
+package src.main.java;
 
-import java.io.File;
 import java.net.MalformedURLException;
 import java.net.URL;
 

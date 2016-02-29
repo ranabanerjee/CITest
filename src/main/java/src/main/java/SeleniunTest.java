@@ -1,4 +1,4 @@
-package src.test.java;
+package src.main.java;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
